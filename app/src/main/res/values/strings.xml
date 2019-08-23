@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">eElection</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_activity">Activity</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_candidates">Candidates</string>
+    <string name="title_activity_mark_your_location">Map</string>
+    <string name="title_activity_get_users_location">Map</string>
+
+    <string name="add_address_button_text"><font size="18">Next</font>\n\
+        <font size="10">MARK YOUR ADDRESS ON THE MAP</font>
+    </string>
+
+    <string name="terms">
+        <u>By continuing, I accept terms of service</u>
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
